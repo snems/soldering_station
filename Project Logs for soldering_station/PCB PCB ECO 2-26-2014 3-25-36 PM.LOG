@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res2 New DesignItemId=Res
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=R1206
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=1K
+Added Component: Designator=R2(R1206)
+Added Component: Designator=R3(R1206)
+Added Member To Class: ClassName=cpu Member=Component R2 1K
+Added Member To Class: ClassName=cpu Member=Component R3 1K
+Added Room: Name=cpu

@@ -1,0 +1,7 @@
+Added Component: Designator=DA1(SO-8_N)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Pin To Net: NetName=GND Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Net: Name=GND
+Added Class: Name=cpu
+Added Room: Name=cpu
