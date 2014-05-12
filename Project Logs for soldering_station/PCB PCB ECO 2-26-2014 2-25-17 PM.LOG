@@ -1,4 +1,0 @@
-Added Component: Designator=DD1(32A_N)
-Added Pin To Net: NetName=GND Pin=DD1-19
-Added Pin To Net: NetName=GND Pin=DD1-22
-Added Member To Class: ClassName=cpu Member=Component DD1 ATmega168A-AU
